@@ -8,7 +8,7 @@ import streamlit as st
 st.set_page_config(page_title="Book RAG — Hybrid Search", layout="wide")
 
 # Same Gemini key used in the notebook — replace with your own if it expires.
-GEMINI_API_KEY = "AQ.Ab8RN6JiEDq1H95IqKb2zC3qPQBx9aboFqtl_JV_LsV7gwRniA"
+GEMINI_API_KEY = "Your API key"
 
 K_RRF = 60
 DATASET_PATH = "books_dataset.json"
